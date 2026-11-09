@@ -4,6 +4,7 @@ I do things in Java and Rust.
 (And sometimes in other languages, when i like them)
 
 I'm currently getting my Masters Degree in practical Computer Science.
+
 I like complex Systems (preferably complex by design and not by accident), clean and simple architecture and understanding what's happening behind all of it.
 
 Currently working on: a RISC-V-Emulator in Rust
