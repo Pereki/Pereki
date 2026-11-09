@@ -7,7 +7,7 @@ I write backends and system software in Java and Rust (and sometimes in other la
 - Currently working on a RISC-V-Emulator in Rust
 - Working as a DevOps Engineer @ J. Schmalz GmbH
 
-I like clean and simple architecture, complex systems (preferably complex by design and not by accident) and understanding what's happening behind all of it.
+I like clean architecture, complex systems (preferably complex by design and not by accident) and understanding what's happening behind all of it.
 
 ---
 ### Tech-Stack
