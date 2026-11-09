@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### About me
 I do things in Java and Rust. 
 (And sometimes in other languages, when i like them)
 
@@ -7,11 +8,22 @@ I'm currently getting my Masters Degree in practical Computer Science.
 
 I like complex Systems (preferably complex by design and not by accident), clean and simple architecture and understanding what's happening behind all of it.
 
+
 Currently working on: a RISC-V-Emulator in Rust
 
 Working as a DevOps Engineer @ J. Schmalz GmbH
 
 ---
+### The Things i know
+#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,vue)](https://skillicons.dev)
+
+#### Databases & Tools
+[![My Skills](https://skillicons.dev/icons?i=postgres,git,maven,mongo)](https://skillicons.dev)
+
+
+#### DevOps, Infrastructure & CI/CD
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,linux,githubactions)](https://skillicons.dev)
 
 
 
