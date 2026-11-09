@@ -16,11 +16,11 @@ I like clean architecture, complex systems (preferably complex by design and not
 [![My Skills](https://skillicons.dev/icons?i=java,spring,rust,vue)](https://skillicons.dev)
 
 #### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=postgres,git,maven,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,git,maven,mongo,redis)](https://skillicons.dev)
 
 
 #### DevOps, Infrastructure & CI/CD
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,linux,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,linux,githubactions,aws)](https://skillicons.dev)
 
 
 
