@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I do things in Java and Rust.
+
+---
+
+
+
 <!--
 **Pereki/Pereki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
